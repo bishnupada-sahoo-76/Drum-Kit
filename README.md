@@ -1,5 +1,5 @@
 # Drum-Kit
-A Drum-Kit website Play the virtual drum kit using your computer keyboard.
+-A Drum-Kit website Play the virtual drum kit using your computer keyboard.
 Each key corresponds to a different drum sound, providing an interactive musical experience. 
 I used HTML/CSS & JavaScript to develop this website. 
 This was my first time working with JavaScript.
