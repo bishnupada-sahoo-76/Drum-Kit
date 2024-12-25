@@ -10,5 +10,4 @@ Each key corresponds to a different drum sound, providing an interactive musical
 - JavaScript
 
 ---
-
 Hosted the website on https://bishnupada-sahoo-76.github.io/Drum-Kit/
